@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  background: #eef2f7;
+  color: #172033;
+  font-family: Arial, sans-serif;
+}
+
+main {
+  max-width: 700px;
+  margin: 70px auto;
+  padding: 35px;
+  background: white;
+  border-radius: 16px;
+}
+
+h1 {
+  color: #164e9b;
+}
+
+#contador {
+  font-size: 42px;
+  font-weight: bold;
+}
+
+button {
+  padding: 12px 22px;
+  border: 0;
+  border-radius: 8px;
+  background: #164e9b;
+  color: white;
+  cursor: pointer;
+}
